@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "34faaeaf9032431e5fcd3cba",
+  "owner": "dytj76",
+  "repo": "page-727af3d4331433ba1b6af17e",
+  "title": "强哥网络(QiangGe)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "727af3d4331433ba1b6af17e",
+      "a": "强哥网络(QiangGe)",
+      "b": "2027官方最新地址导航",
+      "entity": "强哥网络(QiangGe)",
+      "brand": "强哥网络(QiangGe)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a3778f7bdb35bb4d0c158fdb28271b816244fc2556d6ec7ec8290ddd6b308a00",
+      "content": {
+        "primary_entity": "强哥网络(QiangGe)",
+        "keyword1": "强哥网络(QiangGe)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，再导入订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选好套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，配置订阅",
+          "AI_DESCRIPTION": "，强哥网络提供多档加速套餐，覆盖从个人轻量使用到团队多设备协同的场景。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并配备 IPLC 专线，团队版每月 1000GB 流量支持 20 台设备。选择时按常用设备数量和月均流量估算，再参考对应客户端的订阅导入方式完成配置。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度对比套餐，能更快找到适合自己的版本。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与电脑少量使用的场景。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、支持 5 台设备，IPLC 专线对游戏和实时应用更友好。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、支持 20 台设备，适合多人共享或小型办公环境。",
+          "AI_FEATURE_TITLE_1": "按流量选择",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TITLE_3": "按线路类型选择",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "强哥网络提供基础版、旗舰版和团队版三档加速套餐，分别面向轻量个人使用、多设备日常使用和团队共享场景。可以根据设备数量、每月流量需求和线路偏好来挑选版本，再在对应客户端中导入订阅配置。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版搭载 IPLC 专线",
+          "AI_HIGHLIGHT_3": "按设备数匹配在线额度",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并含 IPLC 专线，团队版每月 1000GB 流量支持 20 台设备。年付分别为 ¥150、¥350 和 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按常用设备数量和月均流量，在基础版、旗舰版和团队版之间确定一个版本。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限和线路类型，确认是否满足日常使用。",
+          "AI_STEP_TEXT_3": "在设备对应的客户端中按文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "强哥网络套餐导航",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合轻量浏览与基础流媒体；若需要游戏加速或更多设备，可选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，包含 IPLC 专线游戏加速优化和全节点原生流媒体解锁，适合多设备且对线路质量要求较高的场景。",
+          "AI_FAQ_ANSWER_3": "在对应系统的客户端里新建订阅，粘贴购买后获得的订阅链接，保存并更新节点即可看到可用线路。",
+          "AI_FAQ_ANSWER_4": "月付适合短期试用，按年付更划算，例如基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年。",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与专属客户经理服务，适合多人协作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么样的使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版能同时连接几台设备？",
+          "AI_FAQ_QUESTION_3": "订阅链接应该怎么导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付在价格上有什么区别？",
+          "AI_FAQ_QUESTION_5": "团队版和企业使用有什么优势？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "blyxk.cn",
+    "host": "blyxk.cn"
+  },
+  "file_hashes": {
+    "index.html": "7b585037fe83adc8242922baf07caaa4b22a0ac1f951aafe82ff73986f735dca",
+    "sitemap.xml": "c913d90cf8e2f0e04f27ec40ca55ac39e3340d000842b1d818cdca7ac1aef09f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "677c335e88dfdcad7ed92eb8a4508326011b0d6318a5661998c85b5be422a12e",
+    "robots.txt": "28ca3c68f5d652bf31046132e5d765d4a1dcc76bb1fa8156cd0427ef162f7b65",
+    "2e75a60e2e1331b2e44c5ff727272d4d.txt": "c9451b46c765206752b3efc7c51c74014749ac01c06d13678a20e1f3117085e2"
+  },
+  "revision": "e01482b1cb45328800f8b148db11f05e337c9de27b3fc9e3f970246e0379e0cd"
+}

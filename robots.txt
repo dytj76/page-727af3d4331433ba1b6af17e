@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blyxk.cn/sitemap.xml
